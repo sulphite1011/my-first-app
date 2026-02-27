@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.calendar.app-mergeReleaseResources-57:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/mnt/okcomputer/output/CalendarApp/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "265"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        }
+    ]
+}
